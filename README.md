@@ -24,3 +24,6 @@ npm start run
 ### The Project Structure (MVC workflow)
 
 ![MVC ScreenShot](https://github.com/zziying/Forkify/blob/master/dist/img/mvc-screenshot.png)
+
+### App Client View
+![App ScreenShot](https://github.com/zziying/Forkify/blob/master/dist/img/WeChat0caa6f8968b2d8453153e1fb819637ee.png)
